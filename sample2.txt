@@ -1,2 +1,2 @@
 This is sample2
-Here is feature Branch
+Here is master Branch
